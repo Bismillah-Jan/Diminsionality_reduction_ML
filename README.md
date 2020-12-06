@@ -7,7 +7,8 @@ Contains implemenation of PCA, FDA, LDA and QDA
 ## How to Run the program
  - Download the python files in a diectory and run only the "*.py" files. Thats it!
 
-##Princiapal Componenet Analysis (PCA) ..............................
+1. __________ Princiapal Componenet Analysis (PCA) _________________ 
+
 ### Some plots related to  PCA are given below
 
 - Data before PCA, contains 10 instances of three dimensions. So, theh dataset is of 10X3
@@ -15,4 +16,6 @@ Contains implemenation of PCA, FDA, LDA and QDA
 
 - Data after PCA, the dimension of the dataset after reduction is 10X2:
  ![PCA_2D](https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/main/PCA_2D.png)
- 
+
+2. __________ Linear Discriminant Analysis (LDA) _________________ 
+
