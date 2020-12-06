@@ -11,7 +11,8 @@ Contains implemenation of PCA, FDA, LDA and QDA
 ### Some plots related to  PCA are given below
 
 - Data before PCA, contains 10 instances of three dimensions. So, theh dataset is of 10X3
-![alt tag]( https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/master/PCA_3D.png?raw=true)
+![PCA_3D]( https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/main/PCA_3D.png)
 
-- For RBF kernel the output is:
- ![alt tag](https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/master/PCA_2D.png?raw=true)
+- Data after PCA, the dimension of the dataset after reduction is 10X2:
+ ![PCA_2D](https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/main/PCA_2D.png)
+ 
