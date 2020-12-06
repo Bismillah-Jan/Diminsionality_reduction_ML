@@ -2,7 +2,7 @@
 ## How to Run the program
  - Download the python files in a diectory and run only the "*.py" files. Thats it!
 
-## 1. Princiapal Componenet Analysis (PCA): 
+## 1. Princiapal Component Analysis (PCA): 
 
 ### Some plots related to  PCA are given below
 
