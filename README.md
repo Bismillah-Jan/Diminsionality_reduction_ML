@@ -12,5 +12,5 @@
 - Data after PCA, the dimension of the dataset after reduction is 10X2:
  ![PCA_2D](https://github.com/Bismillah-Jan/Diminsionality_reduction_ML/blob/main/PCA_2D.png)
 
-2. Linear Discriminant Analysis (LDA) <this section will be updated soon!> 
+## 2. Linear Discriminant Analysis (LDA) <this section will be updated soon!> 
 
